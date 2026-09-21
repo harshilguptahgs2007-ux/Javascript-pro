@@ -1,2 +1,0 @@
-# Javascript-pro
-Javascript Project

@@ -67,10 +67,3 @@ Press any key
             → correct & complete → nextSequence() (longer sequence)
             → incorrect → game over → startover()
 ```
-
-## Possible Improvements (Part 2 ideas)
-- Add a restart/reset button instead of requiring a keypress.
-- Show the current score/high score.
-- Add difficulty levels (faster flashes, more colors).
-- Disable button clicks while the sequence is being played back, to prevent cheating.
-- Add mobile touch support styling/testing.
